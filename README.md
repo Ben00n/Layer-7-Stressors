@@ -1,7 +1,7 @@
 # Layer-7-Stressors
 
 ## Overview
-This tool is designed for stress-testing purposes, enabling developers, sysadmins, and other IT professionals to test the stability, scalability, and resilience of their systems under load. By generating simulated stress conditions, this program assists in identifying performance bottlenecks, verifying infrastructure limits, and improving the robustness of applications in a controlled, lawful manner.
+These tools are designed for stress-testing purposes, enabling developers, sysadmins, and other IT professionals to test the stability, scalability, and resilience of their systems under load. By generating simulated stress conditions, these programs assists in identifying performance bottlenecks, verifying infrastructure limits, and improving the robustness of applications in a controlled, lawful manner.
 
 ## Disclaimer
 These programs are extremely powerful. they were created solely for educational and lawful testing purposes. Use of these softwares must comply with all relevant laws and regulations in your jurisdiction. Any unauthorized or malicious use of these tools, including but not limited to denial-of-service attacks, unauthorized access, or disrupting network services, is strictly prohibited and illegal.
