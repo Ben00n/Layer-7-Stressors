@@ -11,6 +11,7 @@ Ensure that you have explicit permission from the owner of any network, server, 
 This software is provided “as-is” without any warranty. There is no guarantee that it is free of errors, fits any particular purpose, or that it will perform safely or effectively under any conditions. I will not be assisting with it, or liable for any damages, direct or indirect, resulting from the use or inability to use this software.
 
 Usage:
+```bash
 python <scriptname>.py <url>
 
 License
